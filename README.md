@@ -107,3 +107,5 @@ Single file with tests - here home.spec.ts:
 
 
 hello world :)
+druga zmiana :)
+
