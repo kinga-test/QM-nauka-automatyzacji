@@ -36,3 +36,5 @@ export class BasePage {
     await expect(this.footer).toBeVisible();
   }
 }
+
+// mój komentarz
